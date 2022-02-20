@@ -1,0 +1,7 @@
+Home work day 3
+   1 WAJP to read 5 numbers from user and print the umber using
+for loop,foreach loop
+   2 WAJAP to read 5 umber from user and find sum and avg?
+   3--- 5 umbers and fid biggest number?
+	
+   4--- 5 number from user and sort them using bubble sort
